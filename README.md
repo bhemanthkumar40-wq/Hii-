@@ -1,48 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>For Bindu ❤️</title>
 
-<style>
-body {
-    background: linear-gradient(45deg, #ff9a9e, #fad0c4, #fad0c4, #ffdde1);
-    text-align: center;
-    font-family: Arial, sans-serif;
-    overflow-x: hidden;
-}
-
-h1 {
-    margin-top: 30px;
-    font-size: 40px;
-    color: white;
-    text-shadow: 2px 2px 5px black;
-}
-
-.love-text {
-    font-size: 22px;
-    font-weight: bold;
-    animation: glow 1s infinite alternate;
-}
-
-@keyframes glow {
-    from { text-shadow: 0 0 5px white; }
-    to { text-shadow: 0 0 20px yellow; }
-}
-
-button {
-    padding: 12px 25px;
-    font-size: 18px;
-    background: red;
-    color: white;
-    border: none;
-    border-radius: 20px;
-    cursor: pointer;
-    margin-top: 20px;
-}
-</style>
-
-</head>
-<body>
 
 <h1>💖 Bindu I Love You ❤️ 💖</h1>
 
